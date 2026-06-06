@@ -37,11 +37,10 @@ function getTMDBDetails(tmdbId, mediaType) {
       throw new Error(`TMDB HTTP ${res.status}`);
     return res.json();
   }).then((data) => {
-    var _a;
     return {
       title: mediaType === "tv" ? data.name : data.title,
       originalTitle: mediaType === "tv" ? data.original_name : data.original_title,
-      year: ((_a = mediaType === "tv" ? data.first_air_date : data.release_date) == null ? void 0 : _a.split("-")[0]) || null
+      year: ((mediaType === "tv" ? data.first_air_date : data.release_date) || "").split("-")[0] || null
     };
   });
 }

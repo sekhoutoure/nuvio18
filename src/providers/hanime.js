@@ -17,7 +17,7 @@ function getTMDBDetails(tmdbId, mediaType) {
             return {
                 title: mediaType === 'tv' ? data.name : data.title,
                 originalTitle: mediaType === 'tv' ? data.original_name : data.original_title,
-                year: (mediaType === 'tv' ? data.first_air_date : data.release_date)?.split('-')[0] || null
+                year: ((mediaType === 'tv' ? data.first_air_date : data.release_date) || '').split('-')[0] || null
             };
         });
 }
