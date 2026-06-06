@@ -25,8 +25,12 @@ var TMDB_API_KEY = "439c478a771f35c05022f9feabcca01c";
 var TMDB_BASE_URL = "https://api.themoviedb.org/3";
 var BASE_URL = "https://www.eporner.com";
 function getTMDBDetails(tmdbId, mediaType) {
-  if (tmdbId.startsWith("cxxx:")) {
-    return Promise.resolve({ title: decodeURIComponent(tmdbId.substring(5)) });
+  if (tmdbId && typeof tmdbId === "string" && tmdbId.startsWith("cxxx:")) {
+    try {
+      return Promise.resolve({ title: decodeURIComponent(tmdbId.substring(5)) });
+    } catch (e) {
+      return Promise.resolve({ title: tmdbId.substring(5) });
+    }
   }
   const endpoint = mediaType === "tv" ? "tv" : "movie";
   const url = `${TMDB_BASE_URL}/${endpoint}/${tmdbId}?api_key=${TMDB_API_KEY}`;
