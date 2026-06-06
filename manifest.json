@@ -1,0 +1,1368 @@
+{
+  "name": "CXXX Nuvio Providers",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "hanime",
+      "name": "Hanime",
+      "description": "Hanime Hentai & Anime Streaming",
+      "version": "1.0.0",
+      "author": "CXXX Port",
+      "supportedTypes": [
+        "movie",
+        "tv",
+        "anime"
+      ],
+      "filename": "providers/hanime.js",
+      "enabled": true,
+      "formats": [
+        "m3u8"
+      ],
+      "logo": "https://all-wish.me/assets/logo.png",
+      "contentLanguage": [
+        "en",
+        "ja"
+      ]
+    },
+    {
+      "id": "xvideos",
+      "name": "XVideos",
+      "description": "XVideos adult streaming provider",
+      "version": "1.0.0",
+      "author": "CXXX Port",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xvideos.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xvideos.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "xnxx",
+      "name": "XNXX",
+      "description": "XNXX adult streaming provider",
+      "version": "1.0.0",
+      "author": "CXXX Port",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xnxx.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xnxx.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "noodlensfw",
+      "name": "Noodle NSFW",
+      "description": "Noodle NSFW adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/noodlensfw.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=ukdevilz.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "allpornstream",
+      "name": "AllPornStream",
+      "description": "AllPornStream adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/allpornstream.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=allpornstream.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "animeidhentai",
+      "name": "AnimeIdHentai",
+      "description": "AnimeIdHentai adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/animeidhentai.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=animeidhentai.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "asianpinay",
+      "name": "Asianpinay",
+      "description": "Asianpinay adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/asianpinay.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=asianpinay.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "cam4",
+      "name": "Cam4",
+      "description": "Cam4 adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/cam4.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.cam4.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "chatrubate",
+      "name": "Chatrubate",
+      "description": "Chatrubate adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/chatrubate.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=chaturbate.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "cornhub",
+      "name": "CornHub",
+      "description": "CornHub adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/cornhub.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.pornhub.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "desisins",
+      "name": "Desisins",
+      "description": "Desisins adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/desisins.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=desisins.com&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "desixflix",
+      "name": "DesiXFlix",
+      "description": "DesiXFlix adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/desixflix.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=desixflix.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "eporner",
+      "name": "Eporner",
+      "description": "Eporner adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/eporner.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.eporner.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "freepornvideos",
+      "name": "Free Porn Videos",
+      "description": "Free Porn Videos adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/freepornvideos.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.freepornvideos.xxx&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "fullporner",
+      "name": "FullPorner",
+      "description": "FullPorner adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/fullporner.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=fullporner.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "fxpornhd",
+      "name": "FXPornHD",
+      "description": "FXPornHD adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/fxpornhd.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=fxpornhd.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hahomoe",
+      "name": "Haho moe",
+      "description": "Haho moe adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hahomoe.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=haho.moe&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "happy2hub",
+      "name": "Happy2hub",
+      "description": "Happy2hub adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/happy2hub.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=happy2hub.eu&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hentaicity",
+      "name": "HentaiCity",
+      "description": "HentaiCity adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hentaicity.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.hentaicity.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hentaihaven",
+      "name": "Hentai Haven",
+      "description": "Hentai Haven adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hentaihaven.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hentaipro",
+      "name": "HentaiPro",
+      "description": "HentaiPro adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hentaipro.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=hentai.pro&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hqporner",
+      "name": "Hqporner",
+      "description": "Hqporner adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hqporner.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=hqporner.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "hstream",
+      "name": "HStream",
+      "description": "HStream adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/hstream.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=hstream.moe&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "incestflix",
+      "name": "IncestFlix",
+      "description": "IncestFlix adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/incestflix.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.incestflix.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "internetchicks",
+      "name": "Internetchicks",
+      "description": "Internetchicks adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/internetchicks.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=internetchicks.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "ixiporn",
+      "name": "ixiporn",
+      "description": "ixiporn adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/ixiporn.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=ixiporn.org&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "javfree",
+      "name": "JavFree",
+      "description": "JavFree adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javfree.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=javfree.sh&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "javguru",
+      "name": "Jav Guru",
+      "description": "Jav Guru adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javguru.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=jav.guru&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "javhd",
+      "name": "JAV HD",
+      "description": "JAV HD adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javhd.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=javhd.today&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "javmost",
+      "name": "JavMost",
+      "description": "JavMost adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javmost.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www5.javmost.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "javtiful",
+      "name": "Javtiful",
+      "description": "Javtiful adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javtiful.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=javtiful.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "javx",
+      "name": "Javx",
+      "description": "Javx adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/javx.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=javx.org&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "krx18",
+      "name": "KRX 18",
+      "description": "KRX 18 adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/krx18.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=krx18.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "longvideos",
+      "name": "Longvideos",
+      "description": "Longvideos adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/longvideos.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.longvideos.xxx&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "mangoporn",
+      "name": "Mangoporn",
+      "description": "Mangoporn adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/mangoporn.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=mangoporn.net&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "missav",
+      "name": "MissAV",
+      "description": "MissAV adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/missav.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=missav.ws&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "netflav",
+      "name": "Netflav",
+      "description": "Netflav adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/netflav.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=netflav.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "noodlemagazine",
+      "name": "Noodle Magazine",
+      "description": "Noodle Magazine adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/noodlemagazine.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=tyler-brown.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "onlyjerk",
+      "name": "Onlyjerk",
+      "description": "Onlyjerk adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/onlyjerk.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=onlyjerk.net&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "opjav",
+      "name": "OpJAV",
+      "description": "OpJAV adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/opjav.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=opjav.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "paradisehill",
+      "name": "Paradisehill",
+      "description": "Paradisehill adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/paradisehill.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "perverzija",
+      "name": "Perverzija",
+      "description": "Perverzija adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/perverzija.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=tube.perverzija.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "porn4fans",
+      "name": "Porn4fans",
+      "description": "Porn4fans adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/porn4fans.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.porn4fans.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornhits",
+      "name": "Pornhits",
+      "description": "Pornhits adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornhits.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.pornhits.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornhoarder",
+      "name": "Pornhoarder",
+      "description": "Pornhoarder adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornhoarder.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=ww3.pornhoarder.org&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornken",
+      "name": "PornKen",
+      "description": "PornKen adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornken.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=pornken.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornmz",
+      "name": "Pornmz",
+      "description": "Pornmz adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornmz.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=pornmz.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornobae",
+      "name": "Pornobae",
+      "description": "Pornobae adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornobae.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=pornobae.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "pornone",
+      "name": "PornOne",
+      "description": "PornOne adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/pornone.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=pornone.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "porntrex",
+      "name": "Porntrex",
+      "description": "Porntrex adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/porntrex.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.porntrex.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "sextb",
+      "name": "Sextb",
+      "description": "Sextb adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/sextb.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=sextb.net&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "spankbang",
+      "name": "Spankbang",
+      "description": "Spankbang adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/spankbang.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=spankbang.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "supjav",
+      "name": "SupJav",
+      "description": "SupJav adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/supjav.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=supjav.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "sxyprn",
+      "name": "Sxyprn",
+      "description": "Sxyprn adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/sxyprn.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=sxyprn.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "tellyhd",
+      "name": "TellyHD",
+      "description": "TellyHD adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/tellyhd.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://via.placeholder.com/128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "trendyporn",
+      "name": "TrendyPorn",
+      "description": "TrendyPorn adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/trendyporn.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.trendyporn.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "uncut99",
+      "name": "Uncut99",
+      "description": "Uncut99 adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/uncut99.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=uncut99.com&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "uncutmaza",
+      "name": "UncutMaza",
+      "description": "UncutMaza adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/uncutmaza.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "vlxx",
+      "name": "Vlxx",
+      "description": "Vlxx adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/vlxx.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=vlxx.sex&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "whoreshub",
+      "name": "Whoreshub",
+      "description": "Whoreshub adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/whoreshub.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=www.whoreshub.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "xhamster",
+      "name": "Xhamster",
+      "description": "Xhamster adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xhamster.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=vi.xhspot.com&sz=128",
+      "contentLanguage": [
+        "vi"
+      ]
+    },
+    {
+      "id": "xmaza",
+      "name": "Xmaza",
+      "description": "Xmaza adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xmaza.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xmaza.net&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "xmovies4u",
+      "name": "Xmovies4u",
+      "description": "Xmovies4u adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xmovies4u.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xmoviesforyou.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "xnhau",
+      "name": "xNhau",
+      "description": "xNhau adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xnhau.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xnhau.im&sz=128",
+      "contentLanguage": [
+        "vi"
+      ]
+    },
+    {
+      "id": "xprimehub",
+      "name": "XPrimeHub",
+      "description": "XPrimeHub adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xprimehub.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://via.placeholder.com/128",
+      "contentLanguage": [
+        "hi"
+      ]
+    },
+    {
+      "id": "xtapes",
+      "name": "Xtapes",
+      "description": "Xtapes adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/xtapes.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=xtapes.to&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "yespornplease",
+      "name": "YesPornPlease",
+      "description": "YesPornPlease adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/yespornplease.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=yespornpleasexxx.com&sz=128",
+      "contentLanguage": [
+        "en"
+      ]
+    },
+    {
+      "id": "ymaal",
+      "name": "YMaal",
+      "description": "YMaal adult streaming provider ported from CXXX",
+      "version": "1.0.0",
+      "author": "CXXX Port Automation",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/ymaal.js",
+      "enabled": true,
+      "formats": [
+        "m3u8",
+        "mp4"
+      ],
+      "logo": "https://www.google.com/s2/favicons?domain=ymaal.co&sz=128",
+      "contentLanguage": [
+        "hi"
+      ]
+    }
+  ]
+}
