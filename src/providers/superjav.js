@@ -5,6 +5,9 @@ const TMDB_BASE_URL = 'https://api.themoviedb.org/3';
 const BASE_URL = "https://supjav.com";
 
 function getTMDBDetails(tmdbId, mediaType) {
+    if (tmdbId.startsWith('cxxx:')) {
+        return Promise.resolve({ title: decodeURIComponent(tmdbId.substring(5)) });
+    }
     const endpoint = mediaType === 'tv' ? 'tv' : 'movie';
     const url = `${TMDB_BASE_URL}/${endpoint}/${tmdbId}?api_key=${TMDB_API_KEY}`;
     return fetch(url)
